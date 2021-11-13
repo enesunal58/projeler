@@ -9,3 +9,4 @@ while sayi!=1:
         sayi=sayi//2
         print(sayi)#sayının yeni değeri
 print("hesaplama",adimsayisi,"adımda tamamlandı")
+#biter
